@@ -8,11 +8,12 @@
 - 🔗 Connect with me on [LinkedIn](https://in.linkedin.com/in/arun-jose-qa-engineer).
 
 ## Skills
-- **Languages**: JavaScript
-- **Tools**: Playwright, Test Automation Frameworks
-- **Methodologies**: Agile, Manual Testing
+- **Languages**: **JavaScript**
+- **Tools**: Playwright, Postman,
+- **Test Case**: TestLink,
+- **Testing Types**: API Testing, Function Testing, UAT Testing, Sanity Testing, Regression Testing, Retesting
+- **Methodologies**: Agile, STLC, JIRA
 
 ## Recent Activity
 - Enhancing test automation workflows with Playwright.
-- Exploring robust testing strategies for web applications.
-
+- Conducting API testing using Postman and managing test cases with TestLink.
