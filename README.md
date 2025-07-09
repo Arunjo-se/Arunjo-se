@@ -1,20 +1,24 @@
-# Hi there, I'm Arun Jose!
-👋 I am a QA engineer with expertise in JavaScript and Playwright, committed to ensuring software quality through automation.
+# 👋 Hi there, I'm Arun Jose!
 
-## About Me
-- 🎯 Specializing in 🌟 **_JavaScript_** (intended yellow) and 🍃 **_Playwright_** (intended green) for automated testing.
-- 🌐 Based in _Kochi, Kerala, India_
-- 📧 Reach me at _arunjosearcj@gmail.com_
-- 🔗 Connect with me on _[LinkedIn](https://in.linkedin.com/in/arun-jose-qa-engineer)_
+I am a **QA Engineer** with expertise in ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) and ![Playwright](https://img.shields.io/badge/-Playwright-45ba74?style=flat&logo=playwright&logoColor=white), passionate about ensuring high-quality software through test automation.
 
-## Skills
-- **Languages**: _JavaScript_
-- **Tools**: _Playwright_, _Postman_, _Browser stack_
-- **Test Case**: _TestLink_
-- **Testing Types**: API Testing, Functional Testing, UAT Testing, Sanity Testing, Regression Testing, Smoke Testing, Mobile-App Testing(Native & Hybrid)
-- **Methodologies**: JIRA, Agile, STLC, 
+---
 
-## Recent Activity
-- Enhancing test automation workflows with Playwright.
-- Conducting API testing using Postman and managing test cases with TestLink.
-  
+## 🚀 About Me
+
+- 🎯 Specializing in 🌟 **_JavaScript_** and 🍃 **_Playwright_** for automated testing.
+- 🌍 Based in **Kochi, Kerala, India**
+- 📬 Reach me at: **arunjosearcj@gmail.com**
+- 🔗 Connect with me on [LinkedIn](https://in.linkedin.com/in/arun-jose-qa-engineer)
+
+---
+
+## 🛠️ Skills
+
+### Languages
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Tools & Frameworks
+- ![Playwright](https://img.shields.io/badge/-Playwright-45ba74?style=flat&logo=playwright&logoColor=white)
+- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+- ![BrowserStack](https://img.shields.io/badge/-BrowserStack-ffb400?style=flat&logo=browse)
