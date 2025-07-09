@@ -6,7 +6,7 @@
 
 ## 🧑‍💼 About Me
 
-- 🧪 Focused on **automated testing** using ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) and ![Playwright](https://img.shields.io/badge/-Playwright-45ba74?style=flat-square&logo=playwright&logoColor=white)
+- 🧪 Focused on **automated testing** using ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) and ![🎭Playwright](https://img.shields.io/badge/-Playwright-45ba74?style=flat-square&logo=playwright&logoColor=white)
 - 🌍 Based in **Kochi, Kerala, India**
 - 📫 Email: [arunjosearcj@gmail.com](mailto:arunjosearcj@gmail.com)
 - 🔗 [LinkedIn Profile](https://in.linkedin.com/in/arun-jose-qa-engineer)
