@@ -2,7 +2,7 @@
 👋 I am a QA engineer with expertise in JavaScript and Playwright, committed to ensuring software quality through automation.
 
 ## About Me
-- 🎯 Specializing in **_JavaScript_** (highlighted as yellow) and <span style="color: green;">**_Playwright_** </span> for automated testing.
+- 🎯 Specializing in <p style="color: red;">**_JavaScript_** </p> and <span style="color: green;">**_Playwright_** </span> for automated testing.
 - 🌐 Based in _Kochi, Kerala, India_
 - 📧 Reach me at _arunjosearcj@gmail.com_
 - 🔗 Connect with me on _[LinkedIn](https://in.linkedin.com/in/arun-jose-qa-engineer)_
