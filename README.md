@@ -4,7 +4,7 @@
 ## About Me
 - 🎯 Specializing in **JavaScript** and **Playwright** for automated testing.
 - 🌐 Based in Kochi, Kerala, India
-- 📧 Reach me at arunjosearcj@gmail.com].
+- 📧 Reach me at [arunjosearcj@gmail.com].
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arun-jose-qa-engineer).
 
 ## Skills
