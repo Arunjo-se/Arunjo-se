@@ -1,19 +1,22 @@
 # Hi there, I'm Arun Jose!
-👋 I am a QA engineer passionate about ensuring quality through automation and testing.
+👋 I am a QA engineer with expertise in JavaScript and Playwright, focused on delivering high-quality software through automation.
 
 ## About Me
-- 🎯 Specializing in **JavaScript** and **Playwright** for automated browser testing.
-- 🌐 Based in Kochi.
-- 📧 Reach me at arunjosearcj@gmail.com
+- 🎯 Specializing in **JavaScript** and **Playwright** for automated testing.
+- 🌐 Based in Kochi, Kerala, India
+- 📧 Reach me at arunjosearcj@gmail.com].
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arun-jose-qa-engineer).
 
 ## Skills
 - **Languages**: JavaScript
-- **Tools**: Playwright, Testing Frameworks
-- **Other**: Manual Testing, Test Case Design
+- **Tools**: Playwright, Test Automation Frameworks
+- **Methodologies**: Agile, Manual Testing
 
 ## Recent Activity
-- Actively contributing to test automation projects.
-- Exploring new testing strategies with Playwright.
+- Working on enhancing test automation workflows with Playwright.
+- Exploring robust testing strategies for web applications.
 
+## Let's Connect
+If you think I deserve a break, why not [treat me to a coffee?](https://buymeacoffee.com/yourusername) ☕
 
-
+*Last updated: July 09, 2025*
