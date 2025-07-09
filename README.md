@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]!
+# Hi there, I'm Arun Jose!
 👋 I am a QA engineer passionate about ensuring quality through automation and testing.
 
 ## About Me
