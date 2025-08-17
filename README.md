@@ -60,3 +60,48 @@ I’m always open to networking, collaboration, or discussing new QA automation 
 _“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin_
 
 and add more animation to create a portfolio model. 
+
+
+# Hi, I’m Arun Jose
+
+### A dedicated QA Automation Engineer from Kochi, Kerala
+
+- 2+ years in both automation & manual testing
+- Bug hunter mindset, working in Agile teams with test strategy focus
+- Advocate for quality using tools like Playwright, Postman, Selenium
+
+---
+
+##  Tech Stack
+
+###  Automation Tools
+![Playwright](...) ![Selenium](...) ![Postman](...)
+
+###  Programming Languages
+![JavaScript](...) ![Java](...)
+
+###  Test Management & CI/CD
+![JIRA](...) ![TestLink](...) ![Jenkins](...) ![Allure](...)
+
+---
+
+## ​ Featured Projects
+
+- **Playwright E2E Framework with CI/CD**
+  - Page Object Model, JSON-driven test data, Allure & HTML reporting, GitHub Actions CI
+- **Postman API Collection & Newman Automation**
+  - Env-based workflows, schema validation, HTML report generation
+- **Mobile Test Suite**
+  - Native & hybrid apps, multi-device execution, BrowserStack integrated
+
+---
+
+##  GitHub Stats
+![GitHub stats widget](...)  
+![Top languages widget](...)
+
+---
+
+##  Let’s Connect
+[Email](mailto:arunjosearcj@gmail.com) | [LinkedIn](https://in.linkedin.com/in/arun-jose-qa-engineer)
+
