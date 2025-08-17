@@ -13,10 +13,11 @@
 
 ## 🧑‍💼 About Me
 
-- 🧪 Focused on **automated testing** using ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) and ![🎭Playwright](https://img.shields.io/badge/-Playwright-45ba74?style=flat-square&logo=playwright&logoColor=white)
-- 🌍 Based in **Kochi, Kerala, India**
-- 📫 Email: [arunjosearcj@gmail.com](mailto:arunjosearcj@gmail.com)
-- 🔗 [LinkedIn Profile](https://in.linkedin.com/in/arun-jose-qa-engineer)
+- 🧪 Experienced **Quality Assurance Engineer** with 3.7 years in **Manual Testing** and 1 year in **Automation Testing**.  
+- 🔍 Skilled in building **automated test frameworks** using ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) & ![Playwright](https://img.shields.io/badge/-Playwright-45ba74?style=flat-square&logo=playwright&logoColor=white).  
+- 🌍 Based in **Kochi, Kerala, India**  
+- 📫 Reach me at **[arunjosearcj@gmail.com](mailto:arunjosearcj@gmail.com)**  
+- 🔗 Connect on **[LinkedIn](https://in.linkedin.com/in/arun-jose-qa-engineer)**  
 
 
 
@@ -25,23 +26,27 @@
 ## 🛠️ Technical Skills
 
 ### Languages 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Testing Tools
-- ![Playwright](https://img.shields.io/badge/-Playwright-45ba74?style=flat-square&logo=playwright&logoColor=white)
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-- ![BrowserStack](https://img.shields.io/badge/-BrowserStack-ffb400?style=flat-square&logo=browserstack&logoColor=white)
-- TestLink
+ - ![Playwright](https://img.shields.io/badge/-Playwright-45ba74?style=flat-square&logo=playwright&logoColor=white)
+ - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+ - ![BrowserStack](https://img.shields.io/badge/-BrowserStack-ffb400?style=flat-square&logo=browserstack&logoColor=white)
+ - TestLink
 
 ### Testing Types
-- _API Testing_
-- _Functional Testing_
-- _Regression Testing_
-- _Sanity & Smoke Testing_
-- _UAT Testing_
-- _Mobile App Testing (Native & Hybrid)_
+
+ ✅ API Testing  
+ ✅ Functional Testing  
+ ✅ Regression Testing  
+ ✅ Sanity & Smoke Testing  
+ ✅ UAT Testing  
+ ✅ Mobile App Testing (Native & Hybrid) 
+ ✅ System Testing  
+ 
 
 ### Project & Process
+
 - Agile Methodology
 - JIRA for test management
 - Familiar with STLC principles
@@ -52,9 +57,9 @@
 
 ## 📌 Recent Focus
 
-- Developing scalable and maintainable test automation frameworks using **Playwright**
-- Performing in-depth **API testing** and validations with **Postman**
-- Managing structured test scenarios through **TestLink**
+ ⚡ Building scalable and maintainable **automation frameworks** using **Playwright**  
+ 🔍 Performing in-depth **API testing** & validations with **Postman**  
+ 🗂️ Managing structured test scenarios using **TestLink**  
 
 
 
