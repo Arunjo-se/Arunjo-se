@@ -168,4 +168,15 @@ Update the lines & speed in the Typing SVG URL at the top to customize your intr
 
 
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=2ECC71&center=true&vCenter=true&lines=Hi+👋+I'm+Arun+Jose;QA+Engineer;Playwright+%7C+Postman+%7C+Automation;Always+Learning+📚)
+
+
+![snake gif](https://github.com/ArunJoseARCJ/ArunJoseARCJ/blob/output/github-contribution-grid-snake.svg)
+
+
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArunJoseARCJ&show_icons=true&theme=radical)
+
+![GitHub Skyline](https://github.com/ashutosh00710/github-readme-3d-contrib/blob/main/docs/demo.gif)
+
+
 
