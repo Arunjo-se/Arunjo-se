@@ -58,50 +58,106 @@ I’m always open to networking, collaboration, or discussing new QA automation 
 ---
 
 _“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin_
+--------------------------------
 
-and add more animation to create a portfolio model. 
 
-
-# Hi, I’m Arun Jose
-
-### A dedicated QA Automation Engineer from Kochi, Kerala
-
-- 2+ years in both automation & manual testing
-- Bug hunter mindset, working in Agile teams with test strategy focus
-- Advocate for quality using tools like Playwright, Postman, Selenium
+# 👋 Hi, I'm Arun Jose
 
 ---
 
-##  Tech Stack
+## 👨🏻‍💻 About Me
 
-###  Automation Tools
-![Playwright](...) ![Selenium](...) ![Postman](...)
+**Quality Assurance Engineer** with expertise in test automation using modern JavaScript tools. I design reliable test strategies that increase release confidence, accelerate delivery, and improve user experience.
 
-###  Programming Languages
-![JavaScript](...) ![Java](...)
-
-###  Test Management & CI/CD
-![JIRA](...) ![TestLink](...) ![Jenkins](...) ![Allure](...)
+* 🌍 Based in **Kochi, Kerala, India**
+* 🧪 Focus: **Automated testing** with JavaScript & Playwright
+* ✉️ Reach me: [**arunjosearcj@gmail.com**](mailto:arunjosearcj@gmail.com)
+* 🔗 LinkedIn: **in.linkedin.com/in/arun-jose-qa-engineer**
 
 ---
 
-## ​ Featured Projects
+## 🛠️ Tech Stack
 
-- **Playwright E2E Framework with CI/CD**
-  - Page Object Model, JSON-driven test data, Allure & HTML reporting, GitHub Actions CI
-- **Postman API Collection & Newman Automation**
-  - Env-based workflows, schema validation, HTML report generation
-- **Mobile Test Suite**
-  - Native & hybrid apps, multi-device execution, BrowserStack integrated
+### Testing Types & Process
+
+* API • Functional • Regression • Sanity/Smoke • UAT • Mobile (Native & Hybrid)
+* Agile/Scrum • STLC • JIRA for test management • TestLink for test scenarios
 
 ---
 
-##  GitHub Stats
-![GitHub stats widget](...)  
-![Top languages widget](...)
+## 🚀 Recent Focus
+
+* Building **scalable Playwright frameworks** (modular architecture, fixtures, test data, reports)
+* **API testing** & schema validations with Postman / newman
+* Managing structured test suites & traceability with **TestLink**
 
 ---
 
-##  Let’s Connect
-[Email](mailto:arunjosearcj@gmail.com) | [LinkedIn](https://in.linkedin.com/in/arun-jose-qa-engineer)
+## 🧩 Featured Projects (Portfolio)
 
+> Replace links & GIFs with your own repo links and short demos.
+
+---
+
+## 📊 GitHub Analytics (Animated Widgets)
+
+---
+
+## 🧪 Playwright Snapshot
+
+```bash
+# Sample command from my framework
+# Run parallel smoke tests with headed mode for quick visual checks
+npx playwright test -g "@smoke" --headed --workers=4
+```
+
+---
+
+## 🎯 Highlights
+
+* Designed **data-driven** test suites for faster coverage expansion
+* Built **fixture-first** Playwright architecture with clean test isolation
+* Set up **CI pipelines** for nightly E2E regression and PR gating
+* Hands-on with **BrowserStack** device farm & parallelization
+
+---
+
+## 📬 Contact
+
+* ✉️ Email: [**arunjosearcj@gmail.com**](mailto:arunjosearcj@gmail.com)
+* 🔗 LinkedIn: **in.linkedin.com/in/arun-jose-qa-engineer**
+
+---
+
+## ⚙️ Optional Animations (copy/paste if you enable the related workflows)
+
+> These are popular animated add-ons. Some require enabling GitHub Actions on your profile repo.
+
+* Repo: ArunJoseARCJ/ArunJoseARCJ (must be a public profile repo)
+* Enable the action from Platane/snk
+* Then add the image below to this README (after the action generates output/snake.svg):
+
+```md
+![snake gif](https://raw.githubusercontent.com/ArunJoseARCJ/ArunJoseARCJ/output/snake.svg)
+```
+
+Add this image if you like activity graphs:
+
+```md
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArunJoseARCJ&hide_border=false)
+```
+
+Update the lines & speed in the Typing SVG URL at the top to customize your intro animation.
+
+---
+
+## ♻️ How to Use this as a Portfolio Model
+
+1. **Create/Update** your profile repo named exactly \`\` and drop this `README.md` inside it.
+2. Replace project links, add demo GIFs/screenshots to bring your work to life.
+3. (Optional) Enable the **snake** and **activity graph** animations via the instructions above.
+4. Keep the **Featured Projects** fresh—pin 3–4 best repos you want recruiters to see first.
+
+---
+
+*“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin*
