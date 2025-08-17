@@ -1,5 +1,9 @@
-hi, this my git readme.md file
-# 👋 Hi, I'm Arun Jose
+
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1abc9c,100:2ecc71&text=Arun%20Jose&fontColor=ffffff&fontAlignY=38&desc=Quality%20Assurance%20Engineer%20%7C%20JavaScript%20%7C%20Playwright&descAlignY=58)
+
+</div>
 
 **Quality Assurance Engineer** with expertise in test automation using modern JavaScript frameworks and tools. I specialize in designing reliable test strategies to ensure product quality, speed up delivery, and enhance end-user experience.
 
@@ -164,9 +168,4 @@ Update the lines & speed in the Typing SVG URL at the top to customize your intr
 
 
 
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1abc9c,100:2ecc71&text=Arun%20Jose&fontColor=ffffff&fontAlignY=38&desc=Quality%20Assurance%20Engineer%20%7C%20JavaScript%20%7C%20Playwright&descAlignY=58)
-
-</div>
 
