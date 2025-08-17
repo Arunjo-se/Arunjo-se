@@ -161,3 +161,12 @@ Update the lines & speed in the Typing SVG URL at the top to customize your intr
 ---
 
 *“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin*
+
+
+
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1abc9c,100:2ecc71&text=Arun%20Jose&fontColor=ffffff&fontAlignY=38&desc=Quality%20Assurance%20Engineer%20%7C%20JavaScript%20%7C%20Playwright&descAlignY=58)
+
+</div>
+
