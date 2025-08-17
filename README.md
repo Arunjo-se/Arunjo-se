@@ -1,3 +1,4 @@
+hi, this my git readme.md file
 # 👋 Hi, I'm Arun Jose
 
 **Quality Assurance Engineer** with expertise in test automation using modern JavaScript frameworks and tools. I specialize in designing reliable test strategies to ensure product quality, speed up delivery, and enhance end-user experience.
@@ -57,3 +58,5 @@ I’m always open to networking, collaboration, or discussing new QA automation 
 ---
 
 _“Quality is never an accident; it is always the result of intelligent effort.” – John Ruskin_
+
+and add more animation to create a portfolio model. 
